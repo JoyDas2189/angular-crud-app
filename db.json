@@ -1,0 +1,76 @@
+{
+  "employee": [
+    {
+      "id": "cf68",
+      "firstName": "Joy",
+      "lastName": "Das",
+      "email": "dasjoy365d@gmail.com",
+      "dob": "1999-10-26T18:00:00.000Z",
+      "gender": "male",
+      "education": "BSc",
+      "companyName": "Technology Ltd.",
+      "experience": 3,
+      "package": 10
+    },
+    {
+      "id": "dfb7",
+      "firstName": "Rahim",
+      "lastName": "Haque",
+      "email": "raahim@gmai.com",
+      "dob": "2002-02-12T18:00:00.000Z",
+      "gender": "male",
+      "education": "SSC",
+      "companyName": "Mayer Doya",
+      "experience": 10,
+      "package": 12
+    },
+    {
+      "id": "a793",
+      "firstName": "Karim",
+      "lastName": "Islam",
+      "email": "karim@gmail.com",
+      "dob": "1993-02-08T18:00:00.000Z",
+      "gender": "male",
+      "education": "HSC",
+      "companyName": "Dhaka Metro",
+      "experience": 4,
+      "package": 8
+    },
+    {
+      "id": "3f82",
+      "firstName": "Rahima",
+      "lastName": "Khatun",
+      "email": "rahima@gmail.com",
+      "dob": "1994-10-05T18:00:00.000Z",
+      "gender": "female",
+      "education": "SSC",
+      "companyName": "Bongobondu",
+      "experience": 6,
+      "package": 5
+    },
+    {
+      "id": "f187",
+      "firstName": "Halima",
+      "lastName": "Jahan",
+      "email": "halima@gmail.com",
+      "dob": "1992-07-13T18:00:00.000Z",
+      "gender": "female",
+      "education": "SSC",
+      "companyName": "Mata Bua",
+      "experience": 7,
+      "package": 2
+    },
+    {
+      "id": "a725",
+      "firstName": "Sharifa",
+      "lastName": "Molla",
+      "email": "sharifa@gmail.com",
+      "dob": "2007-06-11T18:00:00.000Z",
+      "gender": "others",
+      "education": "SSC",
+      "companyName": "Nola",
+      "experience": 1,
+      "package": 11
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.dialog-content {
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.dialog-content-row {
+    display: flex;
+    gap: 10px;
+}
+.dialog-content-date {
+    width: 210px;
+}
+.dialog-action {
+    padding: 0 25px 20px;
+    button {
+        flex:1;
+    }
+}
